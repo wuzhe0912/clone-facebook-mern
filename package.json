@@ -2,6 +2,7 @@
   "name": "social-app-server-mern",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "git@github.com:wuzhe0912/social-app-server-mern.git",
   "author": "pitt.wu <pitt.wu@sincheng.net>",
   "license": "MIT",
